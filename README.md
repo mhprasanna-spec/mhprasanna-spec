@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=mhprasanna-spec&theme=sakura-x)](https://git.io/streak-stats)
+
 </div>
 
