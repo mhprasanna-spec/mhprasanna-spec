@@ -19,6 +19,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mhprasanna-spec&color=blueviolet&style=for-the-badge)
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhprasanna-spec/mhprasanna-spec/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ## 🧠 About Me
 
 - 🔧 Building hands-on DevOps projects on AWS
