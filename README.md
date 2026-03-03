@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,githubactions,python" />
 </p>
 
-
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mhprasanna-spec/mhprasanna-spec/output/github-contribution-grid-snake.svg" />
