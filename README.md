@@ -11,6 +11,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&animation=fadeIn&color=0:8E2DE2,50:4A00E0,100:1a0033&height=200&section=header&text=Prasanna%20Waghmare&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20·%20Cloud%20Architect%20·%20Infrastructure%20Automation&descAlignY=58&descSize=18&descColor=d0b3ff" />
 </div>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Expert;Infrastructure+as+Code+Specialist" />
