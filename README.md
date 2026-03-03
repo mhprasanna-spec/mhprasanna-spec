@@ -7,6 +7,9 @@
 
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=mhprasanna-spec&color=blueviolet&style=for-the-badge)
+
+
 ## 🧠 About Me
 
 - 🔧 Building hands-on DevOps projects on AWS
