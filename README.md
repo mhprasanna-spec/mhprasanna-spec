@@ -8,9 +8,8 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="800"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,githubactions,python" />
 </p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mhprasanna-spec&color=blueviolet&style=for-the-badge)
 
 
