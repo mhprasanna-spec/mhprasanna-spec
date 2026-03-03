@@ -7,7 +7,16 @@
 
 </div>
 
+## 🧠 About Me
+
+- 🔧 Building hands-on DevOps projects on AWS
+- ☁️ Working with EC2, EBS, IAM, VPC
+- 🐳 Practicing Docker & Kubernetes deployments
+- 📦 Learning Infrastructure as Code with Terraform
+- 🎯 Goal: Become a Production-Ready DevOps Engineer
+
 <!--
+
 **mhprasanna-spec/mhprasanna-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
