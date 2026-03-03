@@ -8,6 +8,11 @@
 </div>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Expert;Infrastructure+as+Code+Specialist" />
+</p>
+
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,githubactions,python" />
 </p>
 
