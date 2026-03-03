@@ -31,5 +31,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=mhprasanna-spec&show_icons=true&theme=tokyonight" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=mhprasanna-spec&theme=sakura-x)](https://git.io/streak-stats)
