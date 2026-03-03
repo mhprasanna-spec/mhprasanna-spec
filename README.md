@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&animation=fadeIn&color=0:8E2DE2,50:4A00E0,100:1a0033&height=200&section=header&text=Prasanna%20Waghmare&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20·%20Cloud%20Architect%20·%20Infrastructure%20Automation&descAlignY=58&descSize=18&descColor=d0b3ff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&animation=fadeIn&color=0:8E2DE2,50:4A00E0,100:1a0033&height=200&section=header&text=Prasanna%20Waghmare&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20·%20Cloud%20Architect%20·%20Infrastructure%20Automation&descAlignY=58&descSize=18&descColor=d0b3ff" />
 </div>
 
 
